@@ -19,7 +19,7 @@ export default function DashboardPage() {
       if (!session) {
         router.push('/login');
       } else {
-        setUserEmail(session.user.email);
+        setUserEmail(session?.user?.email || '');
         setLoading(false);
       }
     };
