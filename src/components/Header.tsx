@@ -8,12 +8,13 @@ export default function Header() {
           <Link href="/">Sports Bucket List</Link>
         </h1>
         {/* Temporarily hiding nav links until they're ready */}
-        {/* 
+        
         <nav className="space-x-4">
+          <Link href="/signup" className="hover:underline">Sign Up</Link>
           <Link href="/about" className="hover:underline">About</Link>
           <Link href="/contact" className="hover:underline">Contact</Link>
         </nav>
-        */}
+        
       </div>
     </header>
   );
