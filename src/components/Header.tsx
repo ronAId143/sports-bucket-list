@@ -11,9 +11,10 @@ export default function Header() {
         
         <nav className="space-x-4">
           <Link href="/signup" className="hover:underline">Sign Up</Link>
-          <Link href="/about" className="hover:underline">About</Link>
+  {/*          <Link href="/about" className="hover:underline">About</Link>
           <Link href="/contact" className="hover:underline">Contact</Link>
-        </nav>
+  */}
+          </nav>
         
       </div>
     </header>
