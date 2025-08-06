@@ -11,11 +11,11 @@ export default function HomePage() {
             <h1 className="text-3xl md:text-4xl font-bold mb-4">Sports Bucket List</h1>
             <p className="text-base md:text-lg text-gray-700 mb-6">
               Track your journey to every stadium, championship game, and historic sports event.
-              Whether you're chasing all 30 MLB ballparks, the Super Bowl, or a dream trip to Augusta -
+              Whether you&rsquo;re chasing all 30 MLB ballparks, the Super Bowl, or a dream trip to Augusta -
               this is your place to log it all.
             </p>
             <p className="text-sm text-gray-600 italic">
-              We're gearing up for launch. Check back soon for the ultimate fan experience.
+              We&rsquo;re gearing up for launch. Check back soon for the ultimate fan experience.
             </p>
           </div>
         </Card>
